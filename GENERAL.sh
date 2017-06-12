@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/TH3BOSS
+cd $HOME/GENERAL
 
 install() {
      cd tg
