@@ -24,23 +24,23 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/NENO90/GENERAL.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd BOSS
+cd GENERAL
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
-chmod +x TH3BOSS.sh
+chmod +x GENERAL.sh
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 
-./TH3BOSS.sh install
+./GENERAL.sh install
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي  
 
-./TH3BOSS.sh 
+./GENERAL.sh 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 *ملاحظه اذا يطلعلك حرف او  
 يوكف بالتنصيب تطي امر y وانتر 
@@ -76,7 +76,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/NENO90/GENERAL.git && cd GENERAL && chmod +x GENERAL.sh && ./GENERAL.sh install && ./GENERAL.sh
 ```
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
